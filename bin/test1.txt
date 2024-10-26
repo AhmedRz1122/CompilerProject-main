@@ -1,0 +1,6 @@
+?num = 19 ; double #646.646 && if $buy$#@
+?i = 0 ; 
+for ?i <= 9 ; ?i = ?i + 1 && 
+if ( ?i )
+print ( ?i ) ; #646.64
+switch ( ?i )
